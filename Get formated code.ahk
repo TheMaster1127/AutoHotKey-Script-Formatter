@@ -94,7 +94,6 @@ Button:
 Return
 
 GuiClose:
-!L::
 	ExitApp
 Return
 
