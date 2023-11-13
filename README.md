@@ -1,4 +1,4 @@
-# Get Formatted Code
+# Get Formatted Code Only For AutoHotKey Scripts
 
 ## Overview
 
