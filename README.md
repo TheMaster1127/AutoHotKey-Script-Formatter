@@ -4,7 +4,7 @@
 
 This AutoHotKey script allows you to quickly format your AutoHotKey code and copy it to the clipboard. It provides a simple graphical user interface (GUI) for pasting AutoHotKey code, formatting it, and copying the formatted code to the clipboard. Additionally, it supports keyboard shortcuts for a more seamless experience.
 
-### Note this only works for AHK v1.x NOT v2
+### Note this only works for AHK v1.1.x NOT v2
 
 ## How to Use
 
@@ -48,5 +48,5 @@ Run `Get formated code.ahk`
 
 ## Dependencies
 
-- AutoHotKey
+- AutoHotKey v1.1.x
 
