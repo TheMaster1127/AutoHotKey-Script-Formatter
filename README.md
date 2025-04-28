@@ -6,6 +6,8 @@ This AutoHotKey script allows you to quickly format your AutoHotKey code and cop
 
 ## How to Use
 
+Run `Get formated code.ahk`
+
 ### Using the GUI
 
 1. **Paste AutoHotKey Code for Formatting:**
